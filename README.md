@@ -5,15 +5,15 @@ This repository will contain materials to be used in MCTE3104 Interfacing Lab co
 Weekly lab materials will be updated here in this repository 1 week prior to the next lab session so it is advisable that you go through the materials prior to coming to our session.
 
 
-### ** Announcements ** <br />
-**[For 14-09-18 Lab Session]** <br />
+### ** ANNOUNCEMENTS ** <br />
+**[For 15-02-19 Lab Session]** <br />
 * Do all lab activites and make a short report <br />
 
 
 
 ### ** IMPORTANT NOTES ** <br />
 * Lab sessions starts every Friday 9:00AM sharp until 12:00PM. <br />
-* We have made a whatsapp group for communication purposes where i'll make announcements so if you're not in it ask your friends to add you in it. <br />
+* We have made a whatsapp group for communication purposes where we'll make announcements so if you're not in it, ask your friends to add you in it. <br />
 * All groups by right are given 2 boxes filled with experimental items for this course and it is loan based so don't lose any items in it! <br />
 * You all gotta wear the Green jacket and no open toe shoes allowed. NO EXCUSES HERE! <br />
 * All groups are required to have their own Log Book. <br />
@@ -29,7 +29,6 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 It is advisable that EACH group bring one laptop and have the following installed:
 * Arduino IDE [(Follow guide)](https://github.com/cannedbot/MCTE3104-s1.1819/blob/master/setups/arduino-setup.pptx)<br /> 
 * Python 3.x [(Follow guide)](https://github.com/cannedbot/MCTE3104-s1.1819/blob/master/setups/python-setup.pptx)<br />
-
 * Nuvoton [(Installation files)](https://drive.google.com/file/d/1bCkpp1f1L1QbV6l4apYloUv5YRCqYEy3/view)<br />
 
 
