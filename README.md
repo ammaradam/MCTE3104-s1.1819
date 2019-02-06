@@ -55,5 +55,5 @@ AFTER - <br />
 
 
 # Course Outline
-![Course Outline](https://github.com/cannedbot/MCTE3104-s1.1819/blob/master/images/contents.png)
+![Course Outline](https://github.com/ammaradam/MCTE3104-s1.1819/blob/master/Images/Lab%20Outline.JPG)
 
