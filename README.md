@@ -7,7 +7,7 @@ Weekly lab materials will be updated here in this repository 1 week prior to the
 
 ### ** ANNOUNCEMENTS ** <br />
 **[For 15-02-19 Lab Session]** <br />
-* Do all lab activites and make a short report <br />
+* Do all lab activites and make a short report. NO PRE LAB ASSIGNMENT <br />
 
 
 
