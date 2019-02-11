@@ -44,7 +44,7 @@ BEFORE - <br />
 DURING - <br />
 * Read and follow task given in the weekly experiment outline <br />
 * Answer questions in "Report - Session #" file in each lab session folder <br />
-* Report is BEST be produced during lab session. Otherwise, make sure you take enough footage for answering questions in report (i.e. video of circuit diagram <br />
+* Report is BEST be produced during lab session. Otherwise, make sure you take enough footage for answering questions in report (i.e. video of circuit diagram) <br />
 
 AFTER - <br />
 * Prepare for next session :) <br /> 
